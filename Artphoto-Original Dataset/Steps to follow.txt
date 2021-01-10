@@ -1,0 +1,13 @@
+https://www.imageemotion.org/
+Download from here
+Folder Name:testimages_atphoto.zip
+Total Images(806)
+And Split
+Three Folders named as
+80%
+Train-Inside-To Create Folder(amusement,anger,awe....)-Paste the image(Releavant category images from original dataset).
+10%
+Test-Inside-To Create Folder(amusement,anger,awe....)-Paste the image(Releavant category images from original dataset).
+10%
+Validation-Create Folder(amusement,anger,awe....)-Paste the image(Releavant category images from original dataset).
+
